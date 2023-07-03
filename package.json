@@ -1,0 +1,28 @@
+{
+  "name": "tablerodedatos",
+  "version": "1.0.0",
+  "description": "Proyecto3_Ucamp",
+  "main": "index.js",
+  "scripts": {
+    "test": "proyecto3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isabela2009/Proyecto3_Ucamp.git"
+  },
+  "keywords": [
+    "tablero",
+    "de",
+    "datos"
+  ],
+  "author": "isabella rodriguez roque",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/isabela2009/Proyecto3_Ucamp/issues"
+  },
+  "homepage": "https://github.com/isabela2009/Proyecto3_Ucamp#readme",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "express": "^4.18.2"
+  }
+}
